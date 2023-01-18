@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ankityadav00
+- 👋 Hi, I’m Ankit yadav.
 - 👀 I’m interested in new opportunity.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently iOS developer.
+- 💞️ I’m looking to collaborate on new learning.
 - 📫 reach me via Linkedin -https://www.linkedin.com/in/ankit-yadav-2000/
 
 <!---
